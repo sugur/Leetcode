@@ -9,7 +9,7 @@ import org.junit.Test;
 public class MinimumCostForTicketsTest {
 
 
-	 private MinimumCostForTickets minimumCostForTickets;
+	private MinimumCostForTickets minimumCostForTickets;
 	private static int[] inputday;
 	private static int[] inputcosts ;
 	 private static int expectedOutput1 = 11;
