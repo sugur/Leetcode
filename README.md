@@ -18,7 +18,7 @@ Tree
 | 404 | Sum of Left Leaves |  [Solution](https://github.com/sugur/leetcode/blob/master/src/main/java/idv/swtang/leetcode/tree/SumOfLeftLeaves.java) | Easy |Tree,post order|Apple|
 
 
-Other
+Array
 
 | # |  Title           |Solution  |Difficulty |Note|TAG|
 |------------| ------------- |:-------------:| :-----:|:-----:|:-----:|
