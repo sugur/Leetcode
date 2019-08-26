@@ -18,6 +18,13 @@ Tree
 | 404 | Sum of Left Leaves |  [Solution](https://github.com/sugur/leetcode/blob/master/src/main/java/idv/swtang/leetcode/tree/SumOfLeftLeaves.java) | Easy |Tree,post order|Apple|
 
 
+Other
+
+| # |  Title           |Solution  |Difficulty |Note|TAG|
+|------------| ------------- |:-------------:| :-----:|:-----:|:-----:|
+| 949 | Largest Time for Given Digits      |  [Solution](https://github.com/sugur/leetcode/blob/master/src/main/java/idv/swtang/leetcode/dynamic_programming/MinimumCostForTickets.java) | Easy |||
+
+
 
 
 
