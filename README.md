@@ -1,13 +1,13 @@
 # leetcode
 
-Dynamic Programming
+##Dynamic Programming
 
 | # |  Title           |Solution  |Difficulty |Note|TAG|
 |------------| ------------- |:-------------:| :-----:|:-----:|:-----:|
 | 983 | Minimum Cost For Tickets       |  [Solution](https://github.com/sugur/leetcode/blob/master/src/main/java/idv/swtang/leetcode/dynamic_programming/MinimumCostForTickets.java) | Medium |Dynamic Programming||
 
 
-Tree
+##Tree
 
 | # |  Title           |Solution  |Difficulty |Note|TAG|
 |------------| ------------- |:-------------:| :-----:|:-----:|:-----:|
@@ -18,11 +18,25 @@ Tree
 | 404 | Sum of Left Leaves |  [Solution](https://github.com/sugur/leetcode/blob/master/src/main/java/idv/swtang/leetcode/tree/SumOfLeftLeaves.java) | Easy |Tree,post order|Apple|
 
 
-Array
+##Array
 
 | # |  Title           |Solution  |Difficulty |Note|TAG|
 |------------| ------------- |:-------------:| :-----:|:-----:|:-----:|
 | 949 | Largest Time for Given Digits      |  [Solution](https://github.com/sugur/leetcode/blob/master/src/main/java/idv/swtang/leetcode/other/LargestTimeFromDigits.java) | Easy |||
+
+
+##Greedy
+
+| # |  Title           |Solution  |Difficulty |Note|TAG|
+|------------| ------------- |:-------------:| :-----:|:-----:|:-----:|
+| 984 | String Without AAA or BBB      |  [Solution](https://github.com/sugur/leetcode/blob/master/src/main/java/idv/swtang/leetcode/dynamic_programming/MinimumCostForTickets.java) | Easy |Greedy||
+
+
+##Linked List
+
+| # |  Title           |Solution  |Difficulty |Note|TAG|
+|------------| ------------- |:-------------:| :-----:|:-----:|:-----:|
+| 141 |  Linked List Cycle      |  [Solution](https://github.com/sugur/leetcode/blob/master/src/main/java/idv/swtang/leetcode/dynamic_programming/MinimumCostForTickets.java) | Easy |Greedy||
 
 
 
