@@ -1,4 +1,4 @@
-package idv.swtang.leetcode.other;
+package idv.swtang.leetcode.array;
 
 import java.util.Arrays;
 

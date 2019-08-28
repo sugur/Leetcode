@@ -1,10 +1,12 @@
-package idv.swtang.leetcode.other;
+package idv.swtang.leetcode.array;
 
 import static org.junit.Assert.*;
 
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+
+import idv.swtang.leetcode.array.LargestTimeFromDigits;
 
 
 public class LargestTimeFromDigitsTest {
