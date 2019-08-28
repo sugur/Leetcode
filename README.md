@@ -30,6 +30,7 @@
 | # |  Title           |Solution  |Difficulty |Note|TAG|
 |------------| ------------- |:-------------:| :-----:|:-----:|:-----:|
 | 984 | String Without AAA or BBB      |  [Solution](https://github.com/sugur/leetcode/blob/master/src/main/java/idv/swtang/leetcode/dynamic_programming/MinimumCostForTickets.java) | Easy |Greedy||
+| 300 | Longest Increasing Subsequence      |  [Solution](https://github.com/sugur/leetcode/blob/master/src/main/java/idv/swtang/leetcode/dynamic_programming/MinimumCostForTickets.java) | Medium |Greedy||
 
 
 ## Linked List
