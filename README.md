@@ -44,7 +44,7 @@
 
 | # |  Title           |Solution  |Difficulty |Note|TAG|
 |------------| ------------- |:-------------:| :-----:|:-----:|:-----:|
-| 191 |  Number of 1 Bits      |  [Solution]https://github.com/sugur/leetcode/blob/master/src/main/java/idv/swtang/leetcode/other/HammingWeight.java) | Easy | Hamming weight||
+| 191 |  Number of 1 Bits      |  [Solution](https://github.com/sugur/leetcode/blob/master/src/main/java/idv/swtang/leetcode/other/HammingWeight.java) | Easy | Hamming weight||
 
 
 
